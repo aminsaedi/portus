@@ -27,12 +27,6 @@ portus 8080 && curl http://localhost:8080
 curl https://raw.githubusercontent.com/aminsaedi/portus/master/install.sh | bash
 ```
 
-## Using Docker
-
-```
-docker run --rm --net host portus 8080
-```
-
 ## Contributing
 
 Contributions are always welcome!
