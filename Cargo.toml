@@ -12,5 +12,5 @@ description = "Simple command to wait for a TCP port to open"
 readme = "README.md"
 homepage = "https://github.com/aminsaedi/portus"
 repository = "https://github.com/aminsaedi/portus"
-keywords = ["port wait", "port", "tcp"]
+keywords = ["port-wait", "port", "tcp"]
 categories = ["command-line-utilities"]
